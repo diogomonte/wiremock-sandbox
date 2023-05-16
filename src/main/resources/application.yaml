@@ -1,0 +1,7 @@
+spring.config.activate.on-profile: default
+energy.base-url: https://api.energidataservice.dk
+
+---
+
+spring.config.activate.on-profile: test
+energy.base-url: http://localhost:8081

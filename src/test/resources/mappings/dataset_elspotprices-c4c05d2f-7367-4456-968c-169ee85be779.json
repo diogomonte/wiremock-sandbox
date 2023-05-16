@@ -1,0 +1,30 @@
+{
+  "id" : "c4c05d2f-7367-4456-968c-169ee85be779",
+  "name" : "dataset_elspotprices",
+  "request" : {
+    "url" : "/dataset/Elspotprices",
+    "method" : "GET",
+    "headers" : {
+      "Accept" : {
+        "equalTo" : "*/*"
+      }
+    }
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "dataset_elspotprices-c4c05d2f-7367-4456-968c-169ee85be779.json",
+    "headers" : {
+      "Cache-Control" : "public, must-revalidate, max-age=57",
+      "Content-Type" : "application/json; charset=utf-8",
+      "Expires" : "Tue, 16 May 2023 08:40:33 GMT",
+      "Last-Modified" : "Tue, 16 May 2023 08:39:33 GMT",
+      "Access-Control-Allow-Origin" : "*",
+      "RemainingCalls" : "49",
+      "TotalCalls" : "50",
+      "Date" : "Tue, 16 May 2023 08:39:35 GMT"
+    }
+  },
+  "uuid" : "c4c05d2f-7367-4456-968c-169ee85be779",
+  "persistent" : true,
+  "insertionIndex" : 2
+}
